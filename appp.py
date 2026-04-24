@@ -1,4 +1,6 @@
 import streamlit as st
+import time
+import pandas as pd
 
 # 1. Configuración de página
 st.set_page_config(page_title="El Gran Misterio...", page_icon="🤫", layout="centered")
